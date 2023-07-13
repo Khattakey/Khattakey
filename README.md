@@ -10,13 +10,15 @@
 
 - 👯 I’m looking to collaborate on **computer vision and image processing related projects**
 
+- LinkedIn [https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn2U%2B2UvpQwu%2B86co7d2GVg%3D%3D](https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn2U%2B2UvpQwu%2B86co7d2GVg%3D%3D)
+
 - 💬 Ask me about **Python, Open CV, HTML, CSS, JS, ML**
 
 - 📫 How to reach me **muhammadafaqkhattak007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4](https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2f9xvc%2bzeruetoi0nmd3ixq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b%2f9xvc%2bzeruetoi0nmd3ixq%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
