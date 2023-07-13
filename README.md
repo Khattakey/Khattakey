@@ -1,3 +1,4 @@
+![logo] (Learn Coding.png)
 <h1 align="center">Hi 👋, I'm Muhammad Afaq Khattak</h1>
 <h3 align="center">Passionate about computer vision, image processing, machine learning and artificial intelligence.</h3>
 
