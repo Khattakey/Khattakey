@@ -1,4 +1,9 @@
-![logo](https://github.com/Khattakey/Khattakey/blob/main/Learn%20Coding.png)
+.logo {
+  float: right;
+  }
+![logo{
+  float: right;
+  }](https://github.com/Khattakey/Khattakey/blob/main/Learn%20Coding.png)
 <h1 align="center">Hi 👋, I'm Muhammad Afaq Khattak</h1>
 <h3 align="center">Passionate about computer vision, image processing, machine learning and artificial intelligence.</h3>
 
