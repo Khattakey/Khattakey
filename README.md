@@ -4,8 +4,6 @@
 
 <img align = "right" alt = "Coding" width = "400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd3d25tdG0wOXdlNzllYWFybGdpMTB5NGYwdnJjbXdxdWRzbzNyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khattakey&label=Profile%20views&color=0e75b6&style=flat" alt="khattakey" /> </p>
-
 - 🔭 Currently pursuing my Master's degree in Media Technology at Technische Universität Ilmenau. **Masters degree**
 
 - 📫 How to reach me **muhammadafaqkhattak007@gmail.com**
