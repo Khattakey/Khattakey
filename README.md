@@ -1,4 +1,4 @@
-![logo](https://github.com/Khattakey/Khattakey/blob/main/Learn%20Coding.png)
+
 <h1 align="center">Hi 👋, I'm Khattakey</h1>
 <h3 align="center">Generative AI & Deep Learning.</h3>
 
