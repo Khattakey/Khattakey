@@ -8,12 +8,6 @@
 
 - 🔭 Currently pursuing my Master's degree in Media Technology at Technische Universität Ilmenau. **Masters degree**
 
-- 👯 I’m looking to collaborate on **computer vision and image processing related projects**
-
-- LinkedIn [https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn2U%2B2UvpQwu%2B86co7d2GVg%3D%3D](https://www.linkedin.com/in/muhammad-afaq-khattak-ba2a521b4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bn2U%2B2UvpQwu%2B86co7d2GVg%3D%3D)
-
-- 💬 Ask me about **Python, Open CV, HTML, CSS, JS, ML**
-
 - 📫 How to reach me **muhammadafaqkhattak007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
