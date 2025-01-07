@@ -1,6 +1,6 @@
 ![logo](https://github.com/Khattakey/Khattakey/blob/main/Learn%20Coding.png)
-<h1 align="center">Hi 👋, I'm Muhammad Afaq Khattak</h1>
-<h3 align="center">Passionate about computer vision, image processing, machine learning and artificial intelligence.</h3>
+<h1 align="center">Hi 👋, I'm Khattakey</h1>
+<h3 align="center">Generative AI & Deep Learning.</h3>
 
 <img align = "right" alt = "Coding" width = "400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTd3d25tdG0wOXdlNzllYWFybGdpMTB5NGYwdnJjbXdxdWRzbzNyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy-downsized.gif">
 
